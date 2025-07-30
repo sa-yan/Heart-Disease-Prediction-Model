@@ -1,2 +1,2 @@
-./heart.csv
-./heart.ipynb
+*.csv
+*.ipynb
